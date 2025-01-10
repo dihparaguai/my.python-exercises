@@ -1,0 +1,3 @@
+# Crie um sistema com uma classe abstrata Animal e duas classes filhas: Cachorro e Gato. A classe Animal deve ter o método abstrato falar(). A classe Gato deve armazenar o número de patas, a classe Cachorro deve retornar o som "auau" e o Gato deve retornar o som "miau" ao chamar falar() .
+
+# Crie instâncias de Gato e Cachorro, armazene-as em uma lista e, para cada animal, verifique se ele é uma instância de Animal e se possui o atributo patas (apenas no caso do Gato). Imprima o nome da classe, o número de patas (se houver) e o som que o animal faz.
