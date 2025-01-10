@@ -1,0 +1,4 @@
+# Dado um conjunto de dados JSON com informações de produtos, converta-os para CSV e salve em arquivo.csv.
+
+# Crie uma lista dados_json com produtos contendo "nome", "preco" e "quantidade".
+# Converta para CSV e salve no arquivo arquivo.csv.
