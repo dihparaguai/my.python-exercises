@@ -1,0 +1,25 @@
+-Objetivo:
+Processar dois arquivos de dados e integrá-los em um novo arquivo, organizando as etapas em ETL (Extração, Transformação e Carga).
+
+-Arquivos de Entrada:
+dados.json: Tabela com colunas específicas, podendo variar.
+dados.csv: Tabela com esquema diferente do JSON.
+
+-Tarefas:
+
+--Extração:
+Leia ambos os arquivos.
+
+--Exiba no terminal:
+Nomes das colunas e quantidade de registros de cada arquivo.
+
+--Transformação:
+Padronize os nomes das colunas.
+Combine os dados em um único DataFrame.
+
+--Carga:
+Salve o resultado em dados_combinados.csv.
+Exiba a quantidade de registros no arquivo final.
+
+-Requisitos:
+Organize o código em uma classe com métodos para cada etapa do ETL.
