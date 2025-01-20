@@ -1,0 +1,6 @@
+1. Acesse os dados de uma API pública com informações de livros no formato JSON através deste link: https://api.itbook.store/1.0/new.
+2. Percorra a lista de dicionários e extraia os seguintes atributos de cada filme:
+- Nome do filme (title)
+- Preço do livro (price)
+3. Utilize a biblioteca Pandas para estruturar os dados extraídos em um DataFrame com as colunas book_title e book_price.
+4. Salve o DataFrame em um arquivo CSV chamado livros_novos.csv.
