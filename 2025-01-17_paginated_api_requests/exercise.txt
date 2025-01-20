@@ -1,0 +1,6 @@
+Utilizando a biblioteca requests, faça uma requisição à API do JSONPlaceholder com um token de autenticação (você pode usar uma simples string de autenticação para fins práticos). Implemente a paginação para garantir que todos os resultados sejam recuperados, caso haja várias páginas.
+
+Exiba a quantidade total de páginas retornadas pela API e a quantidade total de itens (resultados) encontrados. Além disso, trate possíveis erros de requisição e garanta que o código seja robusto contra falhas de conexão.
+
+URL: https://jsonplaceholder.typicode.com/posts
+DOC: https://jsonplaceholder.typicode.com/
